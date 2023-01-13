@@ -1,2 +1,2 @@
-# demo-github-workspace
-Repo untuk keperluan demo github
+# hello-world-bash
+bash script on github workspace
